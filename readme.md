@@ -12,11 +12,10 @@ This project is a URL shortening service developed in Go.
 
 ## Overview
 
-Explain briefly what the project is about and its main functionalities.
+This just a shorten Url and can modify with slug
 
 ## Prerequisites
 
-List any prerequisites or dependencies needed to run the project. For example:
 - Go (version X.X.X)
 - Postman (for API testing)
 
@@ -29,7 +28,7 @@ Guide users on how to install and set up the project:
 
 ## Usage
 
-Provide instructions on how to use the application:
+how to use the application:
 1. Start the Go application.
 2. Use Postman to interact with the API endpoints.
 
